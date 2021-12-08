@@ -1,6 +1,6 @@
 ## Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou Diogo Rocha.
 
-Nerd por natureza, Desenvolvedor Full-Stack .Net, amante de café, séries, animes e tecnologia.
+Nerd por natureza, Desenvolvedor Full-Stack .Net, amante de café, séries, animes, livros e tecnologia.
 
 - Atuando no momento como Analista/Desenvolvedor Full-Stack .Net Sênior
 - Me especializando em Arquitetura de Software:
