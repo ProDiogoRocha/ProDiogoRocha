@@ -1,4 +1,13 @@
 ## Olá! Eu sou Diogo Rocha.
+
+- Atuando no momento como Analista/Desenvolvedor Full-Stack .Net Sênior
+- Me especializando em Arquitetura de Software:
+  - (DDD, CQRS, Hexagonal, Microserviços, Design Patterns, Clean Code, YAGNI, KISS, DRY);
+- Estudando Cloud;
+- Estudando Node.js;
+
+<br />
+
 <div align="center">
   <a href="https://github.com/ProDiogoRocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProDiogoRocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
